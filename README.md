@@ -1,4 +1,4 @@
-# STM32 Bare-Metal Projects — ARM Cortex-M
+# STM32 Bare-Metal Projects — GPIO, UART |ARM Cortex-M
 
 Projets de programmation bare-metal sur STM32L152RE
 sans couche d'abstraction HAL — configuration directe
